@@ -31,3 +31,15 @@ function switchOnCharmFromTip(tip) {
      return "Bye.";
   }
 }
+
+switch (tip) {
+    case "generous":
+        // Statements
+        break;
+    case "not as generous":
+        // Statements
+        break;
+    default:
+        // Statements
+        break;
+}
