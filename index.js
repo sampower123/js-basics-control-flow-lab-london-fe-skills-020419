@@ -1,9 +1,9 @@
 // Write your code in this file!
 function scuberGreetingForFeet (feet) {
   if (feet <= 400) {
-     return "gives customers a free sample if the ride is less than or equal to 400 feet";
+     return "his one is on me!";
   }
   else{
-     return "This one is on me!";
+     return "";
   }
 }
